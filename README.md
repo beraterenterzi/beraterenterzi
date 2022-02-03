@@ -20,4 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beraterenterzi)](https://github.com/beraterenterzi/github-readme-stats)
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=beraterenterzi.beraterenterzi)
+
+
 
