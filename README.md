@@ -1,8 +1,5 @@
 ### Hi there I'm Berat Eren 👋
 
-<!--
-**beraterenterzi/beraterenterzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI & Computer Vision
@@ -10,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, OpenCV, Deep Learning
 - 📫 How to reach me: beraterenterzi@gmail.com
 - ⚡ Fun fact: I am fan of Formula 1 :racing_car:
--->
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/beraterenterzi) 
