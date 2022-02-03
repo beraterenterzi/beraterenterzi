@@ -15,7 +15,7 @@
 
 ![snake svg](https://github.com/beraterenterzi/beraterenterzi/blob/main/github-user-contribution.svg) <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=midnight-purple)
 
 
 
