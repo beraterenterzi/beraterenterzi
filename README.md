@@ -19,7 +19,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beraterenterzi&theme=midnight-purple)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=beraterenterzi.beraterenterzi)
