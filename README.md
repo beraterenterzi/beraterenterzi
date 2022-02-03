@@ -1,6 +1,5 @@
 ### Hi there I'm Berat Eren 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI & Computer Vision
 - 🌱 I’m currently learning everything :) 
@@ -15,6 +14,5 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@beraterenterzi)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=radical)
 
 
