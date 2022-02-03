@@ -13,6 +13,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/beraterenterzi) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@beraterenterzi)
 
+![snake svg](https://github.com/beraterenterzi/beraterenterzi/blob/output/github-contribution-grid-snake.svg) <br>
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=gradient) 
 
 
