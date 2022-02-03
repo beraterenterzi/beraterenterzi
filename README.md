@@ -15,11 +15,11 @@
 
 ![snake svg](https://github.com/beraterenterzi/beraterenterzi/blob/main/github-user-contribution.svg) <br>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=gradient) 
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=beraterenterzi&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beraterenterzi)](https://github.com/beraterenterzi/github-readme-stats)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=beraterenterzi&hide=php&theme=tokyonight)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=beraterenterzi.beraterenterzi)
