@@ -15,11 +15,11 @@
 
 ![snake svg](https://github.com/beraterenterzi/beraterenterzi/blob/main/github-user-contribution.svg) <br>
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=beraterenterzi&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
 
 
 
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=beraterenterzi&hide=php&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=beraterenterzi.beraterenterzi)
