@@ -14,6 +14,9 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@beraterenterzi)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=beraterenterzi&show_icons=true&theme=gradient) 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beraterenterzi)](https://github.com/beraterenterzi/github-readme-stats)
 
 
