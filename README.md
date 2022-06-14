@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on AI & Computer Vision
-- 🌱 I’m currently learning everything :) 
+- 🌱 I’m currently learning machine learning 
 - 💬 Ask me about Python, OpenCV, Deep Learning
 - 📫 How to reach me: beraterenterzi@gmail.com
 - ⚡ Fun fact: I am fan of Formula 1 :racing_car:
