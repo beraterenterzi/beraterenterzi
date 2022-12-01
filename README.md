@@ -1,7 +1,7 @@
 ### Hi there I'm Berat Eren 👋
 
 
-- 🔭 I’m currently working on AI & Computer Vision
+- 🔭 I’m currently working on AI, Computer Vision, NLP
 - 🌱 I’m currently learning machine learning 
 - 💬 Ask me about Python, OpenCV, Deep Learning
 - 📫 How to reach me: beraterenterzi@gmail.com
